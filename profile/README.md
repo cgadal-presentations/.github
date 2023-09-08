@@ -1,4 +1,4 @@
-## Cyril Gadal's custom packages
+## Some of Cyril Gadal's presentations
 
 Conferences:
 - Euromech608 (2023): Slumping regime in lock-release turbidity currents ([presentation](https://cgadal-presentations.github.io/Talk_Euromech608_gravitycurrents/talk.html#/title-slide), [github](https://github.com/cgadal-presentations/Talk_Euromech608_gravitycurrents))
