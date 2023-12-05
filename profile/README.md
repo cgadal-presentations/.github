@@ -6,7 +6,7 @@ Conferences:
 
 Seminars:
 - PMMH (2023): Geophysical data, where to find them ? ([presentation](https://cgadal-presentations.github.io/Research_presentation/talk.html#/title-slide), [github](https://github.com/cgadal-presentations/talk_data_PMMH))
-- IUSTI (2023): Turbidity (particle-laden gravity) currents - Relevant processes and numbers ([presentation](https://cgadal-presentations.github.io/Research_presentation/talk.html#/title-slide), [github](https://github.com/cgadal-presentations/Seminar_IUSTI_gravitycurrents))
+- IUSTI (2023): Turbidity (particle-laden gravity) currents - Relevant processes and numbers ([presentation](https://cgadal-presentations.github.io/Seminar_IUSTI_gravitycurrents/talk.html), [github](https://github.com/cgadal-presentations/Seminar_IUSTI_gravitycurrents))
 
 Other:
 - Quick presentation of my research (2023) ([presentation](https://cgadal-presentations.github.io/Research_presentation/talk.html#/title-slide), [github](https://github.com/cgadal-presentations/Research_presentation))
