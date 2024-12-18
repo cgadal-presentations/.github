@@ -3,6 +3,7 @@
 Conferences:
 - Euromech608 (2023): Slumping regime in lock-release turbidity currents ([presentation](https://cgadal-presentations.github.io/Talk_Euromech608_gravitycurrents/talk.html#/title-slide), [github](https://github.com/cgadal-presentations/Talk_Euromech608_gravitycurrents))
 - EGU (2023): Slumping regime in lock-release turbidity currents ([poster](https://cgadal-presentations.github.io/poster_egu2023/poster.html?print-pdf=#/), [github](https://github.com/cgadal-presentations/poster_egu2023))
+- EGU (2024): An experimental set-up for the spatio-temporal quantification of fine particle infiltration in porous beds ([poster](https://cgadal-presentations.github.io/poster_egu2024/poster.html?print-pdf=#/), [github](https://github.com/cgadal-presentations/poster_egu2024))
 
 Seminars:
 - PMMH (2023): Geophysical data, where to find them? ([presentation](https://cgadal-presentations.github.io/talk_data_PMMH//talk.html), [github](https://github.com/cgadal-presentations/talk_data_PMMH))
